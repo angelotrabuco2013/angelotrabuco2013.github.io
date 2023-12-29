@@ -1,2 +1,2 @@
 # angelotrabuco2013.github.io
-My website. Has a bunch of cool stuff. I am working on adding copies of Scratch mods.
+My website. Has a bunch of cool stuff. I am working on adding copies of Scratch mods and archiving some old stuff until it gets removed.
