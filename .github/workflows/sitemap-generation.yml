@@ -20,7 +20,7 @@ jobs:
       id: sitemap
       uses: cicirello/generate-sitemap@v1
       with:
-        base-url-path: https://actions.cicirello.org/
+        base-url-path: https://angelotrabuco2013.github.io/
     
     - name: Output stats
       run: |
