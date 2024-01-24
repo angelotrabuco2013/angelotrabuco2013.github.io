@@ -1,8 +1,30 @@
+<!--
+
+                                       
+                                       
+     999999999      222222222222222    
+   99:::::::::99   2:::::::::::::::22  
+ 99:::::::::::::99 2::::::222222:::::2 
+9::::::99999::::::92222222     2:::::2 
+9:::::9     9:::::9            2:::::2 
+9:::::9     9:::::9            2:::::2 
+ 9:::::99999::::::9         2222::::2  
+  99::::::::::::::9    22222::::::22   
+    99999::::::::9   22::::::::222     
+         9::::::9   2:::::22222        
+        9::::::9   2:::::2             
+       9::::::9    2:::::2             
+      9::::::9     2:::::2       222222
+     9::::::9      2::::::2222222:::::2
+    9::::::9       2::::::::::::::::::2
+   99999999        22222222222222222222
+
+
+We're trying to surpass Cbass92 in commits.
+
+-->
+
 # AST's official website
 My website. Has a bunch of cool stuff. I am working on adding copies of Scratch mods, and archiving some old stuff until it gets removed.
 
 The new design was originally designed to launch on January 20th, but due to a hiatus, i have to postpone the date to January 15th.
-
-<!-- From Cbass92 -->
-# @angelotrabuco2013
-Nice fork.
